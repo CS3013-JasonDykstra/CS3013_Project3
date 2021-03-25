@@ -1,0 +1,3 @@
+/mnt/d/Downloads/starting_materials/starting_materials/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/d/Downloads/starting_materials/starting_materials/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/d/Downloads/starting_materials/starting_materials/cmake-build-debug/CMakeFiles/starting_materials.dir

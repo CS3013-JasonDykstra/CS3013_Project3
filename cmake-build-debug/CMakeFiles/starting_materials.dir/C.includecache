@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/d/Downloads/starting_materials/starting_materials/goatmalloc.c
+assert.h
+-
+fcntl.h
+-
+stdio.h
+-
+string.h
+-
+sys/mman.h
+-
+time.h
+-
+unistd.h
+-
+goatmalloc.h
+/mnt/d/Downloads/starting_materials/starting_materials/goatmalloc.h
+
+/mnt/d/Downloads/starting_materials/starting_materials/goatmalloc.h
+

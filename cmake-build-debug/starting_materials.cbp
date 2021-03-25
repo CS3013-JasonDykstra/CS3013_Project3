@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="starting_materials"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/mnt/d/Downloads/starting_materials/starting_materials/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/d/Downloads/starting_materials/starting_materials/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/d/Downloads/starting_materials/starting_materials/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/d/Downloads/starting_materials/starting_materials/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/d/Downloads/starting_materials/starting_materials/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/mnt/d/Downloads/starting_materials/starting_materials/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/d/Downloads/starting_materials/starting_materials/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/d/Downloads/starting_materials/starting_materials/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/d/Downloads/starting_materials/starting_materials/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/d/Downloads/starting_materials/starting_materials/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/mnt/d/Downloads/starting_materials/starting_materials/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/d/Downloads/starting_materials/starting_materials/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/d/Downloads/starting_materials/starting_materials/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/d/Downloads/starting_materials/starting_materials/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/d/Downloads/starting_materials/starting_materials/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="starting_materials">
+				<Option output="/mnt/d/Downloads/starting_materials/starting_materials/cmake-build-debug/starting_materials" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/d/Downloads/starting_materials/starting_materials/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/mnt/d/Downloads/starting_materials/starting_materials/."/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/d/Downloads/starting_materials/starting_materials/cmake-build-debug/Makefile&quot;  VERBOSE=1 starting_materials"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/d/Downloads/starting_materials/starting_materials/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/d/Downloads/starting_materials/starting_materials/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/d/Downloads/starting_materials/starting_materials/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="starting_materials/fast">
+				<Option output="/mnt/d/Downloads/starting_materials/starting_materials/cmake-build-debug/starting_materials" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/d/Downloads/starting_materials/starting_materials/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/mnt/d/Downloads/starting_materials/starting_materials/."/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/d/Downloads/starting_materials/starting_materials/cmake-build-debug/Makefile&quot;  VERBOSE=1 starting_materials/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/d/Downloads/starting_materials/starting_materials/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/d/Downloads/starting_materials/starting_materials/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/d/Downloads/starting_materials/starting_materials/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/mnt/d/Downloads/starting_materials/starting_materials/goatmalloc.c">
+			<Option target="starting_materials"/>
+		</Unit>
+		<Unit filename="/mnt/d/Downloads/starting_materials/starting_materials/goatmalloc.h">
+			<Option target="starting_materials"/>
+		</Unit>
+		<Unit filename="/mnt/d/Downloads/starting_materials/starting_materials/test_goatmalloc.c">
+			<Option target="starting_materials"/>
+		</Unit>
+		<Unit filename="/mnt/d/Downloads/starting_materials/starting_materials/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
